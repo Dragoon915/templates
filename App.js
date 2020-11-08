@@ -6,7 +6,7 @@ import Inventory from "./Inventory";
 import Order from "./Order";
 import sampleFishes from "../sample-fishes";
 import Fish from './Fish';
- 
+
 class App extends React.Component { 
     state = {
         fishes: {},
